@@ -23,6 +23,16 @@
     "clear H3",
     "clear H6",
     "unflag F1",
-    "clear F1"
+    "clear F1",
+    "unflag A2",
+    "unflag A3",
+    "unflag A4",
+    "clear A2",
+    "clear A3",
+    "clear A4",
+    "unflag F3",
+    "clear F3",
+    "unflag F4",
+    "clear F4"
   ]
 }
