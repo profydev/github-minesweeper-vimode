@@ -20,6 +20,9 @@
     "flag F1",
     "flag F2",
     "clear H8",
-    "clear H3"
+    "clear H3",
+    "clear H6",
+    "unflag F1",
+    "clear F1"
   ]
 }
